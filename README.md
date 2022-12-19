@@ -9,6 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 # Essentials
-this repository conatins all my react applications, and i will really enjoy feedback from anyone who visits my apps, criticism and correctons and corrections are highly welcomed.
+a calculator app built with reactjs
+
 
 HAPPY HACKING!!!
